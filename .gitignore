@@ -1,0 +1,33 @@
+# IDE Setting Directory
+#-------------------------
+.idea/*
+*.iml
+
+## Sublime Text cache files
+#-------------------------
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+target/
+
+## NodeJs node_moudles Directory
+#-------------------------
+node_modules/
+
+## Visual Studio Code Setting Directory
+#-------------------------
+.vscode/
+source/android/otalk/build/
+source/android/otalk/.idea/
+source/android/otalk/gradle/wrapper/gradle-wrapper.jar
+source/android/otalk/.gradle/2.14.1/taskArtifacts/fileHashes.bin
+source/android/otalk/gradle/wrapper/gradle-wrapper.properties
+source/android/otalk/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin
+source/android/otalk/.gradle/2.14.1/taskArtifacts/cache.properties
+source/android/otalk/local.properties
+source/android/otalk/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin
+source/android/otalk/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin
+source/android/otalk/.gradle/2.14.1/taskArtifacts/cache.properties.lock
